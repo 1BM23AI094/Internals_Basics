@@ -1,0 +1,18 @@
+{
+  "experiment_name": "drillsense-drilling-rate-m-per-hr",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "rmse": 1.4060869666963005,
+      "mae": 1.0791971158328522
+    },
+    {
+      "name": "Ridge",
+      "rmse": 1.4061263785240488,
+      "mae": 1.0782593947446446
+    }
+  ],
+  "best_model": "LinearRegression",
+  "best_metric_name": "rmse",
+  "best_metric_value": 1.4060869666963005
+}
