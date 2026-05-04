@@ -1,0 +1,9 @@
+{
+  "input": {
+    "rock_hardness": 6.0,
+    "drill_bit_age_hours": 82.0,
+    "mud_pressure_psi": 1484.9,
+    "depth_m": 2048.5
+  },
+  "prediction": 11.852018837546721
+}
